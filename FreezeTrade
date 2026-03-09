@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenithDev7/FreezeTrade/refs/heads/main/Script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenithDev7/FreezeTrade/refs/heads/main/Gui"))()
